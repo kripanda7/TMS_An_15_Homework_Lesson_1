@@ -5,4 +5,4 @@ This project is for welcoming the person with name, that him input.
 java.util.Scanner
 
 ### How to Install and Run the Project
- Run in console `java Exercise2.java'
+ Run in console `java Exercise2.java`
